@@ -7,6 +7,7 @@ This project uses **Terraform**, an Infrastructure as Code (IaC) tool, to automa
 - Terraform
 - AWS EC2
 - Git & GitHub
+- vscode
 
 ## 📁 Project Structure
 
